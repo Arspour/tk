@@ -1,0 +1,14 @@
+
+{
+  "name": "ordo token",
+  "symbol": "ORD",
+  "description": "A minimal token.",
+  "image": "https://YOUR-DOMAIN/path/logo.png",
+  "external_url": "https://YOUR-DOMAIN/",
+  "attributes": [],
+  "properties": {
+    "category": "token",
+    "creators": []
+  }
+}
+
