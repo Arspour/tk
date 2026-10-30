@@ -1,6 +1,6 @@
 {
-  "name": "paw",
-  "symbol": "PW",
+  "name": "iop",
+  "symbol": "iop",
   "description": "A minimal SPL token with metadata on Solana.",
   "image": "https://raw.githubusercontent.com/Arspour/tk/refs/heads/main/tru.png",
   "external_url": "https://YOUR-DOMAIN/",
