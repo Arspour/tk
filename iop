@@ -1,0 +1,12 @@
+{
+  "name": "paw",
+  "symbol": "PW",
+  "description": "A minimal SPL token with metadata on Solana.",
+  "image": "https://raw.githubusercontent.com/Arspour/tk/refs/heads/main/tru.png",
+  "external_url": "https://YOUR-DOMAIN/",
+  "attributes": [],
+  "properties": {
+    "category": "token",
+    "creators": []
+  }
+}
